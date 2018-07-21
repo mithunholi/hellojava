@@ -1,4 +1,4 @@
-import hello.java
+
 public class new {
 
     public static void main(String[] args) {
